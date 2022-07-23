@@ -4,8 +4,8 @@
 
 ## ファイル内容
 
-- 01_SLR.ipynb 単回帰分析(Simple Linear Regression)
-- 02_MLR.ipynb 重回帰分析(Multiple Linear Regression)
+- 単回帰分析(Simple Linear Regression)：01_SLR.ipynb
+- 重回帰分析(Multiple Linear Regression)：02_MLR.ipynb
 
 ## 使用方法
 
